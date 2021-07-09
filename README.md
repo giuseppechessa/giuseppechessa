@@ -1,0 +1,3 @@
+- Hi, I’m @giuseppechessa
+- I’m interested in embedded programmation
+- I’m currently learning C and MATLAB
